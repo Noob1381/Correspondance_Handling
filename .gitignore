@@ -1,0 +1,6 @@
+# Drafted client correspondence
+drafts/
+
+# To keep client brand files (logos, letterheads) out of git, uncomment:
+# business_samples/*/brand_assets/*
+# !business_samples/*/brand_assets/.gitkeep

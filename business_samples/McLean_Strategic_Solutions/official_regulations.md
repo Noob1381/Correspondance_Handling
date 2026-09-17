@@ -1,7 +1,9 @@
 # Official Regulations & Compliance Standards
 **McLean Strategic Solutions**
 
-As a principal consultant managing environmental approvals and audits across multiple Australian states and territories (WA, Qld, NSW, SA, NT), all correspondence and documentation must reference or comply with the following overarching and state-specific frameworks:
+As a principal consultant managing environmental approvals and audits across multiple Australian states and territories (WA, Qld, NSW, SA, NT), all correspondence and documentation must comply with the following overarching and state-specific frameworks. Cite a specific act, regulator, or standard only when the correspondence concerns it.
+
+> Last reviewed: TBC. Legislation and regulator names change; confirm they are current before relying on them in client correspondence.
 
 ## 1. National Framework
 - **Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act):** Federal legislation applying to projects with significant impacts on matters of national environmental significance.

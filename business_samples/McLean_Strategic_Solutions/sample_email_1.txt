@@ -2,16 +2,16 @@ Subject: Environmental Management Plan Review - [Project Name]
 
 Hi [Name],
 
-I've reviewed the latest draft of the Construction Environmental Management Plan (CEMP) for the upcoming phase of [Project Name]. Drawing on my experience with similar major civil projects across [State, e.g., WA/QLD], I have a few critical observations to ensure we meet the required environmental approvals and maintain compliance during delivery.
+I've reviewed the latest draft of the Construction Environmental Management Plan (CEMP) for the next phase of [Project Name]. Based on similar civil projects I've worked on in [State, e.g., WA/QLD], there are two things we need to fix before the plan goes in for approval.
 
-Key items for your attention:
-- **Sediment Control:** The proposed erosion measures need to be bolstered near the southern boundary to align with the state EPA's runoff guidelines.
-- **Auditing Schedule:** We need to lock in the dates for the independent environmental audits during the Q3 earthworks phase to ensure proactive risk management.
+- Sediment control: the erosion measures near the southern boundary are too light. They need strengthening to meet the state EPA's runoff guidelines.
+- Audit schedule: we need to lock in dates for the independent environmental audits during the Q3 earthworks, so any problems are picked up early.
 
-Please see the attached document for my detailed markup. Let's schedule a brief call tomorrow to guide the team through these adjustments before we finalize the plan.
+My detailed markup is attached. Can we have a short call tomorrow so I can take the team through the changes before we finalise the plan?
 
 Regards,
 
+[Name]
 Principal Consultant
 McLean Strategic Solutions
 https://www.mcleanstrategicsolutions.com.au/
